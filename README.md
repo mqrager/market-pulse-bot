@@ -21,7 +21,7 @@
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/market-pulse-bot.git
+   git clone https://github.com/mqrager/market-pulse-bot.git
    cd market-pulse-bot
    ```
 2. Create `.env` file:
